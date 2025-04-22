@@ -1,0 +1,30 @@
+name: "John Doe"
+title: "Data Engineer | Cloud Specialist"
+about: |
+  Passionate Data Engineer with expertise in building scalable data pipelines,
+  cloud architecture, and big data technologies.
+
+sections:
+  - title: "Skills"
+    items:
+      - "Python, SQL, Spark, Airflow"
+      - "AWS, Azure, GCP"
+      - "ETL Pipelines, Data Warehousing, Big Data"
+
+  - title: "Projects"
+    items:
+      - "**Real-time Data Pipeline:** Built Kafka-Spark real-time pipelines for event processing."
+      - "**Data Lake Formation:** Created S3-based Data Lakes integrated with AWS Glue."
+      - "**Azure Data Engineering:** Automated ingestion from multiple sources to Azure Data Factory."
+
+  - title: "Certifications"
+    items:
+      - "AWS Certified Data Analytics - Specialty"
+      - "Microsoft Certified: Azure Data Engineer Associate"
+      - "Databricks Certified Data Engineer"
+
+  - title: "Contact"
+    items:
+      - "📧 Email: johndoe@example.com"
+      - "💼 LinkedIn: linkedin.com/in/johndoe"
+      - "📂 GitHub: github.com/johndoe"
